@@ -1,5 +1,4 @@
 package id.ac.polbeng.muhammadalieff.sqlexample
-
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
 
